@@ -1,9 +1,4 @@
-## 📊 Evaluation: Zero-Shot (CLIP)
-
-Zero Shot prediction:
-- Accuracy: 90%
-
-Zero Shot Results:
+Results:
 
 - Accuracy: 0.9000
 - Precision: 0.8500
