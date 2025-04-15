@@ -24,16 +24,16 @@ def classify_pet(image):
     return {"ViT Classification": vit_output, "CLIP Zero-Shot Classification": clip_output}
 
 example_images = [
-    ["example_images/dog1.jpeg"],
-    ["example_images/dog2.jpeg"],
-    ["example_images/dog3.jpg"],
-    ["example_images/dog4.jpg"],
-    ["example_images/leonberger.jpg"],
-    ["example_images/snow_leopard.jpeg"],
-    ["example_images/cat.jpg"],
-    ["example_images/cat2.jpg"],
-    ["example_images/cat3.jpg"],
-    ["example_images/Loewe.jpeg"]
+    ["dog1.jpeg"],
+    ["dog2.jpeg"],
+    ["dog3.jpg"],
+    ["dog4.jpg"],
+    ["leonberger.jpg"],
+    ["snow_leopard.jpeg"],
+    ["cat.jpg"],
+    ["cat2.jpg"],
+    ["cat3.jpg"],
+    ["Loewe.jpeg"]
 ]
 
 
